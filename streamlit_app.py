@@ -7,7 +7,7 @@ streamlit.text('🥗 Kale, Spinach & Rocket Smootie')
 streamlit.text('🐔 Hard-Boiled Free-Range Egg')
 streamlit.text('🥑🍞 Avocado Toast')
 
-
+streamlit.header("Fruityvice Fruit Advice!")
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 import pandas
